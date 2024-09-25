@@ -1,2 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+:root {
+    --primary-color: #174E70
+    --secondary-color: #333333
+    --primary-color-font: #FCFFFF
+    --secondary-color-font:#333333
+}
